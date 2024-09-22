@@ -19,7 +19,7 @@
     Hi 👋 there, I'm Grace
 </h1>
 
-  <img src="https://media4.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif?cid=ecf05e4704pufs6r4o6j8gq5dlod0ri29l73eiokf54t9r5v&rid=giphy.gif&ct=s"
+  <img src="[https://media4.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif?cid=ecf05e4704pufs6r4o6j8gq5dlod0ri29l73eiokf54t9r5v&rid=giphy.gif&ct=s](https://media4.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif?cid=ecf05e4704pufs6r4o6j8gq5dlod0ri29l73eiokf54t9r5v&rid=giphy.gif&ct=s)"
   align="left" style="width: 400px; height: 375px; object-fit: scale-down;">
 
 - 🌱 I’m currently a student learning **Analysis of Algorithms, Programming Language Concepts, and Computer
