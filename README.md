@@ -1,4 +1,4 @@
-    <!--
+<!--
 **GraceAnnaAkparanta/GraceAnnaAkparanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Here are some ideas to get you started:
@@ -10,19 +10,21 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-    <!-- <h3 align="center">A undergrad in tech</h3> -->
-    <h1 align="center">
-        Hi 👋 there, I'm Grace
-    </h1>
+- ⚡ Fun fact: ... 
 
-    - 🌱 I’m currently a student learning **Analysis of Algorithms, Programming Language Concepts, and Computer
+<h3 align="center">A undergrad in tech</h3>
+-->
+  
+<h1 align="center">
+    Hi 👋 there, I'm Grace
+</h1>
+
+- 🌱 I’m currently a student learning **Analysis of Algorithms, Programming Language Concepts, and Computer
     Architecture**
 
-    <!-- <h3 align="left">Connect with me:</h3>
-   <p align="left"> hello
-   </p>
-   -->
+    <h3 align="left">Connect with me:</h3>
+    <p align="left"> hello
+    </p>
 
     <h3 align="left">Languages and Tools:</h3>
     <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
@@ -61,17 +63,5 @@
     <br />
     <img src="https://media4.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif?cid=ecf05e4704pufs6r4o6j8gq5dlod0ri29l73eiokf54t9r5v&rid=giphy.gif&ct=s"
         align="left" style="width: 400px; height: 375px; object-fit: scale-down;">
-
-    **ᴛᴇᴄʜ ɪɴᴛᴇʀᴇꜱᴛꜱ** <br />
-    • web and mobile development <br />
-    • UI/UX design <br />
-    • game development <br />
-    • computer graphics
-
-    **ʜᴏʙʙɪᴇꜱ** <br />
-    • digital & 3d art <br />
-    • gaming, kingdom hearts is my favorite! <br />
-    • streaming & video editing <br />
-    • fashion <br />
 
 
