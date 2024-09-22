@@ -30,7 +30,7 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=graceannaakparanta&show_icons=true&locale=en" alt="graceannaakparanta" /></p>
 
- <!-- <h1 align="center">
+<h1 align="center">
 ᴡᴇʟᴄᴏᴍᴇ 
 </h1>
 
@@ -53,6 +53,6 @@ hi, i'm giselle! ٩(｡•́‿•̀｡)۶ <br />
 • digital & 3d art <br />
 • gaming, kingdom hearts is my favorite! <br />
 • streaming & video editing <br />
-• fashion <br /> -->
+• fashion <br /> 
 
 
