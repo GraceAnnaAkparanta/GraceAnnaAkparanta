@@ -21,7 +21,7 @@
 <h1 align="center"> 
   <img src="https://github.com/user-attachments/assets/d1d664f9-00e1-448a-979f-0ad0baaa2820"
  style="width: 800px; height: 400px; object-fit: scale-down;">
-<img src="https://giphy.com/embed/d1E2VyhFsxawRbeo" width="480"; height="278";>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVpejhtNjJ5NjYydzRqNHdjZHI4MWRxOHNtMGp0OXJ4dWs1dWZ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.webp" style="width: 800px; height: 400px; object-fit: scale-down;">
 </h1>
 
 - 🌱 I’m currently a student learning **Analysis of Algorithms, Programming Language Concepts, and Computer
