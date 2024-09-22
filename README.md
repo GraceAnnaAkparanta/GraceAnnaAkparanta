@@ -18,7 +18,8 @@
 <h1 align="center">
     Hi 👋 there, I'm Grace
 </h1>
-<iframe src="" width="480" height="437" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/never-give-up-matsuoka-shuzo-UiZpBJIwdJ34k">via GIPHY</a></p>
+<img src="https://giphy.com/embed/UiZpBJIwdJ34k"
+  align="left" style="width: 400px; height: 375px; object-fit: scale-down;">
 
   <img src="https://github.com/user-attachments/assets/d1d664f9-00e1-448a-979f-0ad0baaa2820"
   align="left" style="width: 400px; height: 375px; object-fit: scale-down;">
