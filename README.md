@@ -18,8 +18,10 @@
 <h1 align="center">
     Hi 👋 there, I'm Grace
 </h1>
-<img src="https://github.com/user-attachments/assets/d1d664f9-00e1-448a-979f-0ad0baaa2820"
-  align="center" style="width: 800px; height: 400px; object-fit: scale-down;">
+<h1 align="center"> 
+  <img src="https://github.com/user-attachments/assets/d1d664f9-00e1-448a-979f-0ad0baaa2820"
+ style="width: 800px; height: 400px; object-fit: scale-down;">
+</h1>
 
 - 🌱 I’m currently a student learning **Analysis of Algorithms, Programming Language Concepts, and Computer
     Architecture**
