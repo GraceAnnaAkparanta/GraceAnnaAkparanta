@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **GraceAnnaAkparanta/GraceAnnaAkparanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +11,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-<h1 align="center">Hi 👋, I'm Grace</h1>
-<h3 align="center">A undergrad in tech</h3>
+<!-- <h3 align="center">A undergrad in tech</h3> -->
+<h1 align="center">Hi 👋 there, I'm Grace</h1>
  
-- 🌱 I’m currently learning **Analysis of Algorithms, Programming Language Concepts, and Computer Architecture**
+- 🌱 I’m currently a student learning **Analysis of Algorithms, Programming Language Concepts, and Computer Architecture**
  
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left"> hello
