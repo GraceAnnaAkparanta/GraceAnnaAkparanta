@@ -22,9 +22,9 @@
 - 🌱 I’m currently a student learning **Analysis of Algorithms, Programming Language Concepts, and Computer
     Architecture**
 
-    <h3 align="left">Connect with me:</h3>
+   <!--<h3 align="left">Connect with me:</h3>
     <p align="left"> hello
-    </p>
+    </p> -->
 
     <h3 align="left">Languages and Tools:</h3>
     <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
