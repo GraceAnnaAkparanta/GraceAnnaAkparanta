@@ -19,7 +19,7 @@
     Hi 👋 there, I'm Grace
 </h1>
 <img src="https://github.com/user-attachments/assets/d1d664f9-00e1-448a-979f-0ad0baaa2820"
-  align="center" style="width: 480px; height: 375px; object-fit: scale-down;">
+  align="center" style="width: 480px; height: 400px; object-fit: scale-down;">
 
 - 🌱 I’m currently a student learning **Analysis of Algorithms, Programming Language Concepts, and Computer
     Architecture**
