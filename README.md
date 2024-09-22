@@ -18,8 +18,8 @@
  
 - 🌱 I’m currently learning **Analysis of Algorithms, Programming Language Concepts, and Computer Architecture**
  
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
+<!-- <h3 align="left">Connect with me:</h3> -->
+<p align="left"> hello
 </p>
  
 <h3 align="left">Languages and Tools:</h3>
