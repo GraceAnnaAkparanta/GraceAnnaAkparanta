@@ -1,5 +1,4 @@
-<!--
-**GraceAnnaAkparanta/GraceAnnaAkparanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*GraceAnnaAkparanta/GraceAnnaAkparanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Here are some ideas to get you started:
 
@@ -9,11 +8,13 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like cows
+<h3>This is heading 3</h3>
+
 
 <h3 align="center">A undergrad in tech</h3>
--->
+
   
 <h1 align="center">
     Hi 👋 there, I'm Grace
