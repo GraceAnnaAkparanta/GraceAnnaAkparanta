@@ -14,7 +14,6 @@
 
 
 <h3 align="center">A undergrad in tech</h3>
-
   
 <h1 align="center">
     Hi 👋 there, I'm Grace
