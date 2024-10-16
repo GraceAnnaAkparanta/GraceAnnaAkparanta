@@ -59,6 +59,8 @@
             src="https://github-readme-stats.vercel.app/api/top-langs?username=graceannaakparanta&show_icons=true&locale=en&layout=compact"
             alt="graceannaakparanta" /></p>
 
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#00000000" stroke-opacity="0"/>
+
     <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=graceannaakparanta&show_icons=true&locale=en"
             alt="graceannaakparanta" /></p>
