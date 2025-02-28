@@ -35,3 +35,4 @@ jobs:
           git add github-langs.svg
           git commit -m "Updated GitHub stats with private repos"
           git push origin main
+    
