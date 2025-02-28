@@ -24,10 +24,12 @@
 <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVpejhtNjJ5NjYydzRqNHdjZHI4MWRxOHNtMGp0OXJ4dWs1dWZ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.webp" style="width: 800px; height: 400px; object-fit: scale-down;"> -->
 </h1>
 
-- 🌱 I’m currently a student learning **Analysis of Algorithms, Programming Language Concepts, and Computer
-    Architecture**
+- 🌱 I’m a Com Sci student read to learn! 
 
-   <!--<h3 align="left">Connect with me:</h3>
+  <!--**Analysis of Algorithms, Programming Language Concepts, and Computer
+    Architecture** -->
+
+   <!-- <h3 align="left">Connect with me:</h3>
     <p align="left"> hello
     </p> -->
 
