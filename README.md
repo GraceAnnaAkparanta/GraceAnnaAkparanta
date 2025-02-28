@@ -24,7 +24,7 @@
 <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVpejhtNjJ5NjYydzRqNHdjZHI4MWRxOHNtMGp0OXJ4dWs1dWZ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.webp" style="width: 800px; height: 400px; object-fit: scale-down;"> -->
 </h1>
 
-- 🌱 I’m a Com Sci student read to learn! 
+- 🌱 I’m a student ready to learn! 
 
   <!--**Analysis of Algorithms, Programming Language Concepts, and Computer
     Architecture** -->
@@ -57,9 +57,11 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="40" height="40" /> </a> </p>
 
-    <p><img align="left"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=graceannaakparanta&show_icons=true&locale=en&layout=compact"
-            alt="graceannaakparanta" /></p>
+    <!-- <p><img align="left"
+           src="https://github-readme-stats.vercel.app/api/top-langs?username=graceannaakparanta&show_icons=true&locale=en&layout=compact"
+            alt="graceannaakparanta" /></p> -->
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graceannaakparanta&layout=pie)](https://github.com/graceannaakparanta/github-readme-stats)
 
     <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=graceannaakparanta&show_icons=true&locale=en"
