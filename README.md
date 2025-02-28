@@ -61,7 +61,7 @@
            src="https://github-readme-stats.vercel.app/api/top-langs?username=graceannaakparanta&show_icons=true&locale=en&layout=compact"
             alt="graceannaakparanta" /></p> -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graceannaakparanta&layout=pie)](https://github.com/graceannaakparanta/github-readme-stats)
+  [![Top Langs](github-langs.svg)](https://github.com/graceannaakparanta/github-readme-stats)
 
     <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=graceannaakparanta&show_icons=true&locale=en"
