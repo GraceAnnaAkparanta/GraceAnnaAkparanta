@@ -63,7 +63,7 @@
 
    <!-- [![Top Langs](github-langs.svg)](https://github.com/graceannaakparanta/github-readme-stats) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graceannaakparanta&layout=pie&count_private=true)](https://github.com/graceannaakparanta/github-readme-stats) -->
-    ![Top Langs](top-langs.svg)
+    ![Top Langs](top-langs.svg?timestamp=123456)
 
     <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=graceannaakparanta&show_icons=true&locale=en"
