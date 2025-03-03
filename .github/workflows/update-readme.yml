@@ -3,7 +3,7 @@ name: Update Top Languages
 on:
   schedule:
     - cron: '0 */12 * * *' # Runs every 12 hours
-  workflow_dispatch: # Allows manual manual trigger
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-readme:
@@ -11,15 +11,18 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-      
+
       - name: Fetch GitHub Stats
         run: |
-          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=graceannaakparanta&layout=pie&count_private=true&token=${{ secrets.STATS_TOKEN }}"
+          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=graceannaakparanta&layout=pie&count_private=true&token=${{ secrets.PERSONAL_ACCESS_TOKEN }}"
 
       - name: Commit and Push Changes
+        env:
+          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git remote set-url origin https://GraceAnnaAkparanta:$TOKEN@github.com/GraceAnnaAkparanta/GraceAnnaAkparanta.git
           git add top-langs.svg
-          git diff --quiet && git diff --staged --quiet || git commit -m "Updated Top Languages"
-          git push
+          git commit -m "Updated Top Languages" || echo "No changes to commit"
+          git push origin main
