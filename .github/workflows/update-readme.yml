@@ -3,7 +3,7 @@ name: Update Top Languages
 on:
   schedule:
     - cron: '0 */12 * * *' # Runs every 12 hours
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # <--- Forces the use of your PAT instead of GITHUB_TOKEN
 
       - name: Fetch GitHub Stats
         run: |
@@ -18,11 +20,12 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          TOKEN: ${{ secrets.PAT_TOKEN }}  # Using the correct secret
+          TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/GraceAnnaAkparanta/GraceAnnaAkparanta
+          git remote add origin https://x-access-token:${TOKEN}@github.com/GraceAnnaAkparanta/GraceAnnaAkparanta.git
+          git pull origin main  # <-- Prevents conflicts
           git add top-langs.svg
           git commit -m "Updated Top Languages" || echo "No changes to commit"
           git push origin main
