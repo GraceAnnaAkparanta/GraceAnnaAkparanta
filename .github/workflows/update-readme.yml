@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/GraceAnnaAkparanta/GraceAnnaAkparanta.git
+          git remote set-url origin https://x-access-token:${TOKEN}@https://github.com/GraceAnnaAkparanta/GraceAnnaAkparanta
           git add top-langs.svg
           git commit -m "Updated Top Languages" || echo "No changes to commit"
           git push origin main
