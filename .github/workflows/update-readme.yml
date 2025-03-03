@@ -18,7 +18,7 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          TOKEN: ${{ secrets.PAT_TOKEN }}  # Using the correct secret
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
