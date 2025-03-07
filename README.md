@@ -24,15 +24,15 @@
 <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVpejhtNjJ5NjYydzRqNHdjZHI4MWRxOHNtMGp0OXJ4dWs1dWZ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.webp" style="width: 800px; height: 400px; object-fit: scale-down;"> -->
 </h1>
 
-- 🌱 I’m a student ready to learn! 
+- 🌱 I’m ready to learn! 
 
   <!--**Analysis of Algorithms, Programming Language Concepts, and Computer
     Architecture** -->
 
    <!-- <h3 align="left">Connect with me:</h3>
     <p align="left"> hello
-    </p> -->
-
+    </p>
+  
     <h3 align="left">Languages and Tools:</h3>
     <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -55,7 +55,8 @@
                 alt="mysql" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a> </p>
+                alt="python" width="40" height="40" /> </a> </p>  -->
+
 
     <!-- <p><img align="left"
            src="https://github-readme-stats.vercel.app/api/top-langs?username=graceannaakparanta&show_icons=true&locale=en&layout=compact"
