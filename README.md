@@ -66,7 +66,7 @@
 
 
   
-  ![Top Langs](top-langs.svg?timestamp=123456)
+  ![Top Langs](top-langs.svg?timestamp=xyz)
 
   <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=graceannaakparanta&show_icons=true&locale=en"
