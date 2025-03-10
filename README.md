@@ -61,10 +61,9 @@
 
     <!-- <p><img align="left"
            src="https://github-readme-stats.vercel.app/api/top-langs?username=graceannaakparanta&show_icons=true&locale=en&layout=compact"
-            alt="graceannaakparanta" /></p> -->
-
-   <!-- [![Top Langs](github-langs.svg)](https://github.com/graceannaakparanta/github-readme-stats) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graceannaakparanta&layout=pie&count_private=true)](https://github.com/graceannaakparanta/github-readme-stats) -->
+            alt="graceannaakparanta" /></p> 
+     [![Top Langs](github-langs.svg)](https://github.com/graceannaakparanta/github-readme-stats) 
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graceannaakparanta&layout=pie&count_private=true)](https://github.com/graceannaakparanta/github-readme-stats) -->
   
   ![Top Langs](top-langs.svg?timestamp=123456)
 
