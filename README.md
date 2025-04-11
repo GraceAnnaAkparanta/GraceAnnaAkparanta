@@ -13,7 +13,6 @@
 - ⚡ Fun fact: I like cows
 <h3>This is heading 3</h3> -->
 
-
 <!-- <h3 align="center">A undergrad in tech</h3>
   
 <h1 align="center">
