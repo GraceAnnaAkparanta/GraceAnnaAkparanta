@@ -1,4 +1,4 @@
-*GraceAnnaAkparanta/GraceAnnaAkparanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<!-- *GraceAnnaAkparanta/GraceAnnaAkparanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 **Here are some ideas to get you started:
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like cows
-<h3>This is heading 3</h3> 
+<h3>This is heading 3</h3> -->
 
 <!-- <h3 align="center">A undergrad in tech</h3>
   
@@ -63,10 +63,10 @@
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graceannaakparanta&layout=pie&count_private=true)](https://github.com/graceannaakparanta/github-readme-stats) -->
 
 
-<!--
+
   
   ![Top Langs](top-langs.svg?timestamp=xyz)
 
   <p>&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=graceannaakparanta&show_icons=true&locale=en"
-            alt="graceannaakparanta" /></p> -->
+            alt="graceannaakparanta" /></p> 
